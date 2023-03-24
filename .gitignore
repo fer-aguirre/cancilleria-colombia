@@ -128,3 +128,7 @@ cython_debug/
 
 # VS Code
 .vs*
+
+# Directory
+html/
+data/raw/
